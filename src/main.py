@@ -5,7 +5,7 @@ from game_logic import play_game
 def execute():
     pass
     # word = get_random_word() 
-    # get a random word
+    # get a random worddddd
     # play_game(word)
 
 if __name__ == "__main__":
